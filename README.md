@@ -14,7 +14,7 @@ NV-Dou:
 ```
 download the source_code that we provide
 cd source_code
-python3 main_a3c.py(This code must be the GPU version of PyTorch, and you'll need to prepare the PyTorch's GPU environment)
+python main_a3c.py(This code must be the GPU version of PyTorch, and you'll need to prepare the PyTorch's GPU environment)
 ```
 
 
